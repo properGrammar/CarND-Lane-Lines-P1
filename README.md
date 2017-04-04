@@ -2,6 +2,8 @@
 
 First project for Udacity's Self-Driving Car Nanodegree.
 
+The goal was to develop a pipeline (using Canny edge detection and Hough transforms) to detect and annotate driving lane lines in a stream of dashcam footage.
+
 Met spec on first submission.
 
 Select quotes from the review: 
